@@ -1,0 +1,12 @@
+{
+  "name": "funcional-2018",
+  "dependencies": {
+    "@types/node": "^10.1.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "10.1.3"
+  },
+  "description": ""
+}
